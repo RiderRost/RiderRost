@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RiderRost
+- 👀 I’m interested in 3d graphics
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: artistrost@gmail.com
