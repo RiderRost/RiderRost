@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @RiderRost
-- 👀 I’m interested in 3d graphics
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: artistrost@gmail.com
+Rostislav Fadeev
+Artstation:https://www.artstation.com/riderrost
+Behance:https://www.behance.net/rostislavfadeev
+Python
+How to reach me: artistrost@gmail.com
